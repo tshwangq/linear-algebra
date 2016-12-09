@@ -1,0 +1,7 @@
+#+TITLE: linear algebra study project
+#+AUTHOR: Qun<tshwangq@gmail.com>
+
+this is my linear algebra study project.
+I will keep study plan, progress, course note and other stuff here.
+
+work out a best way for me to study linear algebra and other deep learning topics more efficient.

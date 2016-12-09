@@ -1,5 +1,6 @@
 #+TITLE: linear algebra study project
 #+AUTHOR: Qun<tshwangq@gmail.com>
+#+STARTUP: latexpreview
 
 this is my linear algebra study project.
 I will keep study plan, progress, course note and other stuff here.
@@ -9,3 +10,11 @@ work out a best way for me to study linear algebra and other deep learning topic
 + - README.org --- readme file
   - gtd.org    --- plan file
   - note.org   --- course note
+
+** latex math 
+     \begin{equation}
+     x=\sqrt{b}
+     \end{equation}
+     
+     If $a^2=b$ and \( b=2 \), then the solution must be
+     either $$ a=+\sqrt{2} $$ or \[ a=-\sqrt{2} \].
